@@ -7,8 +7,8 @@ public class volume {
 	}
 	 void vol(int l,int b,int h)
 	{
-	int are=l*b*h;
-	System.out.println("area of the cuboid ="+are);
+	int area=l*b*h;
+	System.out.println("area of the cuboid ="+area);
 	}
     void vol(double r) {
     	double sph = 4.0/3*3.14*r*r*r;
