@@ -18,5 +18,6 @@ public class OVERRIDING_EXAMPLES {
 	A a = new A();
 	B b = new B();
 	a.run();
+	b.run();
 	}
 }
