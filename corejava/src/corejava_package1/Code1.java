@@ -1,6 +1,6 @@
 package corejava_package1;
 //primitive datatype integer
-public class Hello1 {
+public class Code1{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,6 +13,7 @@ public class Hello1 {
 		byte byteMax = 127;
 		byte byteMin = -128;
 
+		
 	}
 
 }

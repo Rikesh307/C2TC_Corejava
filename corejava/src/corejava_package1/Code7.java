@@ -1,6 +1,6 @@
 package corejava_package1;
 
-public class Hello7 {
+public class Code7 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

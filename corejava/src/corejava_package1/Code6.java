@@ -1,5 +1,5 @@
 package corejava_package1;
-public class Hello6 {
+public class Code6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

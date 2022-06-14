@@ -1,6 +1,6 @@
 package corejava_package1;
 //Arrithmetic Operators
-public class Hello5 {
+public class Code5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

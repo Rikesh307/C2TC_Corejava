@@ -10,7 +10,7 @@ public class Nestedtryexample {
    {
 	   int slength = str.length();
 	   System.out.println("String length:"+slength);
-	   
+   
 	   try//inner try block
 	   {
 		   int y=6;
@@ -20,12 +20,13 @@ public class Nestedtryexample {
 	   {
 		   System.out.println("Exception is thrown");
 		   System.out.println(e.toString());
-	   }
+	   }}
    catch(ArrayIndexOutOfBoundsException ae)// match found.
    {
 	   System.out.println("Exception is thrown");
 	 System.out.println(ae.toString());
    }
+   
    System.out.println("im out of catch block");
    }
 }

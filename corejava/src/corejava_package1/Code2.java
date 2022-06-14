@@ -1,6 +1,6 @@
 package corejava_package1;
 //premetive datatype float
-public class Hello2 {
+public class Code2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
