@@ -11,6 +11,8 @@ public class Code24 {
 				System.out.print("@");
 			}
 			System.out.println();
+			
+			
 		}
 
 	}
