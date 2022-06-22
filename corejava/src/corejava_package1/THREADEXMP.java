@@ -9,7 +9,7 @@ public class THREADEXMP {
 		System.out.println("Name of Thread is "+daya.getName());
 		
 		daya.setName("dayanand");
-		daya.setPriority(5);// greater than 10 is not acceptable
+		daya.setPriority(5);
 		
 		System.out.println("After Change "+daya);
 		
